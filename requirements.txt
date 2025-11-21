@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+xgboost
+tensorflow
+keras
+joblib
+pgeocode
+matplotlib
+seaborn
+shap
+category_encoders
+optuna
