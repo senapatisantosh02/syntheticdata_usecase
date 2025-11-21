@@ -13,3 +13,4 @@ seaborn
 shap
 category_encoders
 optuna
+openpyxl
